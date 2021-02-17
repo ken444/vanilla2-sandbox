@@ -1,7 +1,7 @@
 {
-  "name": "vanilla",
+  "name": "vanilla2",
   "version": "1.0.0",
-  "description": "JavaScript example starter project",
+  "description": "",
   "main": "index.html",
   "scripts": {},
   "dependencies": {
@@ -10,5 +10,5 @@
     "twind": "0.15.1"
   },
   "devDependencies": {},
-  "keywords": ["javascript", "starter"]
+  "keywords": []
 }
