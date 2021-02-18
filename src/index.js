@@ -2,6 +2,8 @@ import { html, render } from "lit-html";
 import { Observable } from "rxjs";
 import { tw } from "twind";
 
+console.log("hi");
+
 const x = tw`h-screen bg-purple-400 flex items-center justify-center`;
 let y = tw`font-bold text(center 9xl white sm:gray-800 md:pink-800)`;
 
